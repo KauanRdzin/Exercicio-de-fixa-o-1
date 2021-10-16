@@ -2,7 +2,7 @@ public class Question1_clinica_paciente {
 	
 	    public static void main(String[] args){
 	
-	        Q1_paciente n1 = new Q1_paciente(1, "Dhomini Andrade dos Santos", "26/02/2004", "Masculino", "Padrão", "Nenhum", "O+");
+	        Q1_paciente n1 = new Q1_paciente(1, "Kauan Rodrigo Souza Damasceno", "13/04/2004", "Masculino", "Padrão", "Nenhum", "O+");
 	
 	        System.out.println("\nCodigo: "+n1.getCodigo());
 	        System.out.println("Nome: "+n1.getNome());
