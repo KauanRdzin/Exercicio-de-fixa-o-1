@@ -12,7 +12,7 @@ public class Question1_clinica_paciente {
 	        System.out.println("Alergia: "+n1.getAlergia());
 	        System.out.println("Tipo Sanguíneo: "+n1.getTipoSanguineo()+"\n");
 	
-	        n1.setNome("Joselina Batista de Andrade");
+	        n1.setNome("Marina Batista Souza");
 	        n1.setDataNascimento("26/09/1980");
 	        n1.setSexo("Feminino");
 	        n1.setAlergia("Nenhuma");
